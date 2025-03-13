@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dhafi\\source\\repos\\tpmodul5_2211104018\\",
+  "WorkspaceRootPath": "C:\\Users\\dhafi\\source\\repos\\Modul5_KPL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F2A67372-1940-4A93-B725-0EF013B97B51}|tpmodul5_2211104018\\tpmodul5_2211104018.csproj|c:\\users\\dhafi\\source\\repos\\tpmodul5_2211104018\\tpmodul5_2211104018\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2A67372-1940-4A93-B725-0EF013B97B51}|tpmodul5_2211104018\\tpmodul5_2211104018.csproj|c:\\users\\dhafi\\source\\repos\\modul5_kpl\\tpmodul5_2211104018\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2A67372-1940-4A93-B725-0EF013B97B51}|tpmodul5_2211104018\\tpmodul5_2211104018.csproj|solutionrelative:tpmodul5_2211104018\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,17 +14,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dhafi\\source\\repos\\tpmodul5_2211104018\\tpmodul5_2211104018\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\dhafi\\source\\repos\\Modul5_KPL\\tpmodul5_2211104018\\Program.cs",
               "RelativeDocumentMoniker": "tpmodul5_2211104018\\Program.cs",
-              "ToolTip": "C:\\Users\\dhafi\\source\\repos\\tpmodul5_2211104018\\tpmodul5_2211104018\\Program.cs",
+              "ToolTip": "C:\\Users\\dhafi\\source\\repos\\Modul5_KPL\\tpmodul5_2211104018\\Program.cs",
               "RelativeToolTip": "tpmodul5_2211104018\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-13T01:35:52.044Z",
               "EditorCaption": ""
