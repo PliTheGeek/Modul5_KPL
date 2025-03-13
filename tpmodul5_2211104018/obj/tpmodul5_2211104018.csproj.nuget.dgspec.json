@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dhafi\\source\\repos\\tpmodul5_2211104018\\tpmodul5_2211104018\\tpmodul5_2211104018.csproj": {}
+    "C:\\Users\\dhafi\\Source\\Repos\\Modul5_KPL\\tpmodul5_2211104018\\tpmodul5_2211104018.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dhafi\\source\\repos\\tpmodul5_2211104018\\tpmodul5_2211104018\\tpmodul5_2211104018.csproj": {
+    "C:\\Users\\dhafi\\Source\\Repos\\Modul5_KPL\\tpmodul5_2211104018\\tpmodul5_2211104018.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dhafi\\source\\repos\\tpmodul5_2211104018\\tpmodul5_2211104018\\tpmodul5_2211104018.csproj",
+        "projectUniqueName": "C:\\Users\\dhafi\\Source\\Repos\\Modul5_KPL\\tpmodul5_2211104018\\tpmodul5_2211104018.csproj",
         "projectName": "tpmodul5_2211104018",
-        "projectPath": "C:\\Users\\dhafi\\source\\repos\\tpmodul5_2211104018\\tpmodul5_2211104018\\tpmodul5_2211104018.csproj",
+        "projectPath": "C:\\Users\\dhafi\\Source\\Repos\\Modul5_KPL\\tpmodul5_2211104018\\tpmodul5_2211104018.csproj",
         "packagesPath": "C:\\Users\\dhafi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dhafi\\source\\repos\\tpmodul5_2211104018\\tpmodul5_2211104018\\obj\\",
+        "outputPath": "C:\\Users\\dhafi\\Source\\Repos\\Modul5_KPL\\tpmodul5_2211104018\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
